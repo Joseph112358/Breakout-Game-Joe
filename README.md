@@ -1,7 +1,7 @@
 # Breakout-Game-Joe
 This is my Breakout game project, made as part of my application to google for a software engineering apprenticeship 
 
-This game was made in Unity engine
+This game was made in Unity engine (and you will find all associated files attached.
 
 Known Bugs
 1) Sometimes the ball would become stuck in a horizontal plain on motion
